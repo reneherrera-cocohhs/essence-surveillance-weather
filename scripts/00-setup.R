@@ -1,0 +1,2 @@
+# essence api url for max weather data by weather station 
+url <- "https://essence.syndromicsurveillance.org/nssp_essence/api/timeSeries?percentParam=noPercent&endDate=25Aug2022&startMonth=January&userId=4887&removeZeroSeries=True&stratVal=stationID&graphOnly=true&weatherFactor=maxtemp&datasource=va_weather_aggr&stationAggregateFunc=max&timeResolution=daily&aqtTarget=TimeSeries&detector=probrepswitch&timeAggregateFunc=max&startDate=27May2022&graphOptions=single&stationID=fgz-flg&stationID=fgz-gcn&stationID=fgz-pga"
